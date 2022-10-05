@@ -2873,19 +2873,6 @@
   "resolved" "https://registry.npmjs.org/neo-async/-/neo-async-2.6.2.tgz"
   "version" "2.6.2"
 
-"next-optimized-images@^2.6.2":
-  "integrity" "sha512-yH/f3eLmoQ/TxvWRiSuM6AuF3tR1s4nePdHPTm9gl4lAaGEKxTGaSuUL+ZxE5j/c/ITrnHVHibQzOz1Jl8euQw=="
-  "resolved" "https://registry.npmjs.org/next-optimized-images/-/next-optimized-images-2.6.2.tgz"
-  "version" "2.6.2"
-  dependencies:
-    "chalk" "^2.4.2"
-    "figures" "^3.0.0"
-    "file-loader" "^3.0.1"
-    "imagemin" "^6.1.0"
-    "img-loader" "^3.0.1"
-    "raw-loader" "^2.0.0"
-    "url-loader" "^1.1.2"
-
 "next@>=10.2.0", "next@12.1.6":
   "integrity" "sha512-cebwKxL3/DhNKfg9tPZDQmbRKjueqykHHbgaoG4VBRH3AHQJ2HO0dbKFiS1hPhe1/qgc2d/hFeadsbPicmLD+A=="
   "resolved" "https://registry.npmjs.org/next/-/next-12.1.6.tgz"
