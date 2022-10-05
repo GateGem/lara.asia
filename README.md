@@ -1,5 +1,5 @@
 # Lara.asia
-![thumbnail](https://raw.githubusercontent.com/iceboy1406/lara.asia/main/public/images/screenshots/home.png)
+![thumbnail](https://raw.githubusercontent.com/LaraPlatform/lara.asia/main/public/images/screenshots/home.png)
 <p align="center">
 <a href="https://lara.asia/">Demo Page</a>&nbsp;&nbsp;&nbsp;
 </p>
